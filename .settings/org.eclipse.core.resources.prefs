@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//ser_main/server_config.py=utf-8
+encoding//ser_method/__init__.py=utf-8
+encoding//ser_method/constants.py=utf-8
+encoding//ser_method/get_collections.py=utf-8
+encoding//ser_method/get_userinfo.py=utf-8
+encoding//ser_method/user_reg.py=utf-8
+encoding//ser_model/__init__.py=UTF-8
+encoding//ser_staticmgr/topic_mgr.py=utf-8
+encoding//ser_util/__init__.py=utf-8
+encoding//ser_util/mail_util.py=UTF-8
